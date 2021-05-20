@@ -1,0 +1,25 @@
+tr td a i{
+    font-size: 24px !important;
+}
+tr td a {
+    margin:0 5px;
+    color: #5a5c69;
+}
+tr td a:hover {
+    margin:0 5px;
+    color: blue;
+}
+
+.sortable{
+    cursor: -webkit-grab;
+    cursor: grab;
+    background-color: #5e5151;
+    color: white;
+}
+form label{
+    font-weight: bold;
+}
+
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
